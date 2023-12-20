@@ -2,7 +2,7 @@
 
 Python code for graphs and graph traversal algorithms
 
-## Dependencise:
+## Dependencies
 
 Python3.8 and higher
 numpy
